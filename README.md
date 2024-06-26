@@ -16,7 +16,7 @@ Project hosted live: https://cine-db.vercel.app/
 
 ## Demo User Interfaces
 * UI for fetching movies from the database.
-![Trending movies](src/images/UI-1.png)
+![Trending movies](src/images/UI-01.png)
 
 * Saving movies and tv shows to your watchlist.
 ![Trending movies](src/images/UI-2.png)
